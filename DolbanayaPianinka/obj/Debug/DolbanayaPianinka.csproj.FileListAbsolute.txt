@@ -1,0 +1,7 @@
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\bin\Debug\DolbanayaPianinka.exe.config
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\bin\Debug\DolbanayaPianinka.exe
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\bin\Debug\DolbanayaPianinka.pdb
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\obj\Debug\DolbanayaPianinka.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\obj\Debug\DolbanayaPianinka.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\obj\Debug\DolbanayaPianinka.exe
+C:\Users\Вика\source\repos\DolbanayaPianinka\DolbanayaPianinka\obj\Debug\DolbanayaPianinka.pdb
